@@ -31,7 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Solution URL: (https://github.com/KLunited/Frontend-Mentor-Challenges/tree/main/QR%20Code%20Component%20Challenge)
 
-- Live Site URL: (https://cheery-strudel-451244.netlify.app/)
+- Live Site URL: (https://klunited.github.io/Frontend-Mentor-Challenges/)
 
 
 ## My process
@@ -81,5 +81,5 @@ Now that I know my weakness lies in lack of practice with CSS, especially concer
 
 ## Acknowledgments
 
-I need to give special thanks to my mate Stephen Man who helped me solve the publishing issue.
+I need to give special thanks to my mate Stephen Man who helped me solve the publishing issue. I managed to solve the issue hosting on Github Pages in the end. But still a big thanks to my mate for making the time available.
 
